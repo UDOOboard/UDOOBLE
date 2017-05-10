@@ -1,0 +1,15 @@
+{
+  "name": "udoo-neo-ble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "udooboard <social@udoo.org> (http://www.udoo.org/blog/)",
+  "license": "ISC",
+  "dependencies": {
+    "bleno": "^0.4.2",
+    "udoo-arduino-manager": "file:../node-udoo-arduino-manager"
+  }
+}
