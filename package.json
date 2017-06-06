@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "bleno": "^0.4.2",
-    "udoo-arduino-manager": "file:../node-udoo-arduino-manager"
+    "udoo-arduino-manager": "^1.3.1"
   }
 }
